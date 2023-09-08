@@ -1,0 +1,9 @@
+export const MAX_LENGTH = 96;
+export const SLOW_SPEED = 200;
+export const MEDIUM_SPEED = 150;
+export const FAST_SPEED = 100;
+export const X_MAX = 100;
+export const X_MIN = 0;
+export const Y_MAX = 100;
+export const Y_MIN = -4;
+export const RATE = 4;
